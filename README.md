@@ -1,7 +1,7 @@
 ```bash
 > neofetch
 ```
-```ini
+```toml
 vijay@sundarapandiyan
 -------------------------
 OS: Ubuntu 22.04.2 LTS on Windows 10 x86_64
