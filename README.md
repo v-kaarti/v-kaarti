@@ -1,5 +1,5 @@
 ```bash
-> This GitHub is currently under construction! Local -> Remote in progress
+> This GitHub is under construction
 ```
 ```bash
 > neofetch                                                                                                  
