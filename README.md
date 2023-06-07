@@ -1,5 +1,5 @@
 ```bash
-> neofetch
+> neofetch                                                                                                                                                                                                           
 ```
 
 <a href="https://github.com/v-kaarti/v-kaarti">
