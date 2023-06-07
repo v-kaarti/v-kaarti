@@ -1,8 +1,6 @@
-```bash
-> This GitHub is under construction
 ```
 ```bash
-> neofetch                                                                                                  
+> neofetch                                                                                               
 ```
 
 <a href="https://github.com/v-kaarti/v-kaarti">
